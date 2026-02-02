@@ -25,6 +25,8 @@ I am a **Mobile Application Developer** specializing in **Flutter-based,** **cro
 
 I build **scalable, maintainable, production-ready mobile systems** with strong attention to architecture, performance, and user experience.
 
+
+
 ### 🚀 Core Expertise
 - 📱 Mobile Application Development (Flutter, Dart)
 - 🔁 Cross-Platform Development (Flutter, React Native)
@@ -35,8 +37,10 @@ I build **scalable, maintainable, production-ready mobile systems** with strong 
 - 🧱 Scalable UI Architecture
 - 🧠 Version Control & Team Collaboration (Git/GitHub)
 
-### 🛠 Technical Skills
 
+
+
+### 🛠 Technical Skills
 #### 💻 Languages & Frameworks
 - Dart (Flutter)
 - JavaScript
@@ -57,19 +61,21 @@ I build **scalable, maintainable, production-ready mobile systems** with strong 
 - Responsive & adaptive UI
 - Performance optimization & memory awareness
 
+
+
 ### 📌 Selected Projects
 See pinned repositories for implementation details.
-
-#### 📱 Flutter Mobile Applications
+- #### 📱 Flutter Mobile Applications
 Authentication flows, dashboards, real-time data handling, modular UI systems.
 
-#### ⚙️ SaaS Mobile Clients
+- #### ⚙️ SaaS Mobile Clients
 Subscription-based and productivity-focused applications with scalable architecture.
 
-#### 🚀 Startup MVPs
+- #### 🚀 Startup MVPs
 Rapid prototyping with production-grade foundations.
 
 Each project emphasizes **code quality,** **maintainability,** and **long-term scalability.**
+
 
 
 ### 🧠 Engineering Mindset
@@ -80,6 +86,7 @@ Each project emphasizes **code quality,** **maintainability,** and **long-term s
 _“I Grant Thought Their First Breath”_ reflects a commitment to **intentional engineering.**
 
 
+
 ### 📈 Opportunities
 Open to:
 - 📱 Mobile App Developer roles (Flutter / React Native)
@@ -87,6 +94,7 @@ Open to:
 - 🎓 Internship, Junior, or Mid-level positions
 - 🌍 Remote or hybrid teams
 - 🏢 High-impact startups and large technology companies
+
 
 
 ### 🤝 Contact & Collaboration
