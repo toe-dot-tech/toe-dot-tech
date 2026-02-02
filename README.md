@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Emmanuel — Mobile Application & SaaS Engineer
+## 👋 TOE Tech — Mobile Application & SaaS Engineer
 
 📱 Flutter • Cross-Platform • Mobile Systems
 “I Grant Thoughts Their First Breath.”
@@ -57,7 +57,7 @@ I build scalable, maintainable, production-ready mobile systems with strong atte
 - Responsive & adaptive UI
 - Performance optimization & memory awareness
 
-###📌 Selected Projects
+### 📌 Selected Projects
 See pinned repositories for implementation details.
 
 #### 📱 Flutter Mobile Applications
@@ -69,23 +69,28 @@ Subscription-based and productivity-focused applications with scalable architect
 #### 🚀 Startup MVPs
 Rapid prototyping with production-grade foundations.
 
+Each project emphasizes **code quality,** **maintainability,** and **long-term scalability.**
 
-Each project emphasizes **code quality, ** **maintainability,** and **long-term scalability.**
 
 ### 🧠 Engineering Mindset
-🧱 Architecture first, UI second
-⚡ Performance is a core requirement, not an enhancement
-🧹 Clean, readable, and scalable code
-🔍 Deep thinking beats quick hacks
-“I Grant Thought Their Last Breath” reflects a commitment to intentional engineering.
-📈 Opportunities
+- 🧱 Architecture first, UI second
+- ⚡ Performance is a core requirement, not an enhancement
+- 🧹 Clean, readable, and scalable code
+- 🔍 Deep thinking beats quick hacks
+_“I Grant Thought Their First Breath”_ reflects a commitment to **intentional engineering.**
+
+
+### 📈 Opportunities
 Open to:
-📱 Mobile App Developer roles (Flutter / React Native)
-⚙️ SaaS-focused product teams
-🎓 Internship, Junior, or Mid-level positions
-🌍 Remote or hybrid teams
-🏢 High-impact startups and large technology companies
-🤝 Contact & Collaboration
-💻 GitHub: You’re already here
-📬 Open to roles, collaboration, and technical discussions
+- 📱 Mobile App Developer roles (Flutter / React Native)
+- ⚙️ SaaS-focused product teams
+- 🎓 Internship, Junior, or Mid-level positions
+- 🌍 Remote or hybrid teams
+- 🏢 High-impact startups and large technology companies
+
+
+### 🤝 Contact & Collaboration
+- 💻 GitHub: You’re already here
+- Email: contact.toetech@gmail.com
+- 📬 Open to roles, collaboration, and technical discussions
 ⭐ If you’re building scalable mobile products, I can help ship them.
