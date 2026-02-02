@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 
 ## 👋 TOE Tech — Mobile Application & SaaS Engineer
 
-📱 Flutter • Cross-Platform • Mobile Systems <br>
-“I Grant Thoughts Their First Breath.”
+**📱 Flutter • Cross-Platform • Mobile Systems** <br>
+
+_“I Grant Thoughts Their First Breath.”_
 
 
 
