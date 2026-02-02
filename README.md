@@ -36,32 +36,43 @@ I build scalable, maintainable, production-ready mobile systems with strong atte
 🧠 Version Control & Team Collaboration (Git/GitHub)
 
 ### 🛠 Technical Skills
+
 #### 💻 Languages & Frameworks
-Dart (Flutter)
-JavaScript
-Kotlin (Android ecosystem familiarity)
-Swift (iOS ecosystem familiarity)
-⚙️ Mobile & SaaS Tooling
-Flutter & FlutterFlow
-Firebase (Authentication, Firestore, Cloud Functions)
-RESTful APIs
-CI-friendly Git workflows
-🧩 Architecture & Best Practices
-Clean Architecture
-MVVM / Feature-based architecture
-State Management (Provider, Riverpod, Bloc concepts)
-Responsive & adaptive UI
-Performance optimization & memory awareness
-📌 Selected Projects
+- Dart (Flutter)
+- JavaScript
+- Kotlin (Android ecosystem familiarity)
+- Swift (iOS ecosystem familiarity)
+  
+#### ⚙️ Mobile & SaaS Tooling
+- Flutter & FlutterFlow
+- Firebase (Authentication, Firestore, Cloud Functions)
+- Supabase
+- RESTful APIs
+- CI-friendly Git workflows
+
+#### 🧩 Architecture & Best Practices
+- Clean Architecture
+- MVVM / Feature-based architecture
+- State Management (Provider, Riverpod, Bloc concepts)
+- Responsive & adaptive UI
+- Performance optimization & memory awareness
+
+###📌 Selected Projects
 See pinned repositories for implementation details.
-📱 Flutter Mobile Applications
+
+#### 📱 Flutter Mobile Applications
 Authentication flows, dashboards, real-time data handling, modular UI systems.
-⚙️ SaaS Mobile Clients
+
+#### ⚙️ SaaS Mobile Clients
 Subscription-based and productivity-focused applications with scalable architecture.
-🚀 Startup MVPs
+
+#### 🚀 Startup MVPs
 Rapid prototyping with production-grade foundations.
-Each project emphasizes code quality, maintainability, and long-term scalability.
-🧠 Engineering Mindset
+
+
+Each project emphasizes **code quality, ** **maintainability,** and **long-term scalability.**
+
+### 🧠 Engineering Mindset
 🧱 Architecture first, UI second
 ⚡ Performance is a core requirement, not an enhancement
 🧹 Clean, readable, and scalable code
