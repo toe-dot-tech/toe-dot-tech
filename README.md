@@ -92,5 +92,6 @@ Open to:
 ### 🤝 Contact & Collaboration
 - 💻 GitHub: You’re already here
 - Email: contact.toetech@gmail.com
-- 📬 Open to roles, collaboration, and technical discussions
+- 📬 Open to roles, collaboration, and technical discussions <br>
+
 ⭐ If you’re building scalable mobile products, I can help ship them.
