@@ -16,24 +16,24 @@ Here are some ideas to get you started:
 
 ## 👋 TOE Tech — Mobile Application & SaaS Engineer
 
-📱 Flutter • Cross-Platform • Mobile Systems
+📱 Flutter • Cross-Platform • Mobile Systems <br>
 “I Grant Thoughts Their First Breath.”
 
 
 
-I am a Mobile Application Developer specializing in Flutter-based, cross-platform mobile applications and SaaS mobile clients.
+I am a **Mobile Application Developer** specializing in **Flutter-based,** **cross-platform mobile applications** and **SaaS mobile clients.**
 
-I build scalable, maintainable, production-ready mobile systems with strong attention to architecture, performance, and user experience.
+I build **scalable, maintainable, production-ready mobile systems** with strong attention to architecture, performance, and user experience.
 
-🚀 Core Expertise
-📱 Mobile Application Development (Flutter, Dart)
-🔁 Cross-Platform Development (Flutter, React Native)
-🍎📦 Native Mobile Ecosystems (iOS – Swift, Android – Kotlin concepts)
-⚙️ SaaS Mobile Clients & MVP Development
-🔌 REST API Integration
-🔐 Authentication & Real-Time Data Systems
-🧱 Scalable UI Architecture
-🧠 Version Control & Team Collaboration (Git/GitHub)
+### 🚀 Core Expertise
+- 📱 Mobile Application Development (Flutter, Dart)
+- 🔁 Cross-Platform Development (Flutter, React Native)
+- 🍎📦 Native Mobile Ecosystems (iOS – Swift, Android – Kotlin concepts)
+- ⚙️ SaaS Mobile Clients & MVP Development
+- 🔌 REST API Integration
+- 🔐 Authentication & Real-Time Data Systems
+- 🧱 Scalable UI Architecture
+- 🧠 Version Control & Team Collaboration (Git/GitHub)
 
 ### 🛠 Technical Skills
 
