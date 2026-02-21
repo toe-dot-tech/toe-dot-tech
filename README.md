@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 TOE Tech — Mobile Application & SaaS Engineer
+## 👋 Mobile Application & SaaS Engineer
 
 **📱 Flutter • Cross-Platform • Mobile Systems** <br>
 
