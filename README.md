@@ -1,106 +1,31 @@
+# Hi there, I'm Emmanuel Orimoloye (TOE Tech) 👋 
+### Mobile & Systems Engineer
 
-<!--
-**toe-dot-tech/toe-dot-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design, engineer, and deploy production-ready cross-platform mobile apps, real-time back-end architectures, and automated AI workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently workindn ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Stack & Technologies
 
-## 👋 Mobile Application & SaaS Engineer
+- **Mobile Engineering:** Flutter, Dart, Riverpod, Offline Persistence, iOS & Android Native Configurations
+- **Backends & Real-Time Sync:** Supabase, PostgreSQL, WebSockets, REST APIs, Firebase
+- **AI & Systems Automation:** Python, Custom AI Agents, Server Scripting, Webhooks
+- **DevOps & Delivery:** Clean Architecture, CI/CD, App Store Connect, Google Play Console
 
-**📱 Flutter • Cross-Platform • Mobile Systems** <br>
+---
 
-_“I Grant Thoughts Their First Breath.”_
+### 🚀 Featured Engineering Projects
 
+- 📱 **Agent 360 (Crediometer):** Automated savings platform digitizing African savings operations across Admin, Agent, and Customer apps.
+- 🛡️ **Ajora:** Trust-minimized rotating savings engine with smart contract escrow.
+- 🤖 **FanMark:** Dual-role mobile platform bridging creators & fans via AI verification and AR unboxing.
+- ⚡ **GigMint:** Decentralized freelance marketplace deployed on Polygon network.
 
+---
 
-I am a **Mobile Application Developer** specializing in **Flutter-based,** **cross-platform mobile applications** and **SaaS mobile clients.**
+### 🌐 Connect & Collaborate
 
-I build **scalable, maintainable, production-ready mobile systems** with strong attention to architecture, performance, and user experience.
-
-
-
-### 🚀 Core Expertise
-- 📱 Mobile Application Development (Flutter, Dart)
-- 🔁 Cross-Platform Development (Flutter, React Native)
-- 🍎📦 Native Mobile Ecosystems (iOS – Swift, Android – Kotlin concepts)
-- ⚙️ SaaS Mobile Clients & MVP Development
-- 🔌 REST API Integration
-- 🔐 Authentication & Real-Time Data Systems
-- 🧱 Scalable UI Architecture
-- 🧠 Version Control & Team Collaboration (Git/GitHub)
-
-
-
-
-### 🛠 Technical Skills
-#### 💻 Languages & Frameworks
-- Dart (Flutter)
-- JavaScript
-- Kotlin (Android ecosystem familiarity)
-- Swift (iOS ecosystem familiarity)
-  
-#### ⚙️ Mobile & SaaS Tooling
-- Flutter & FlutterFlow
-- Firebase (Authentication, Firestore, Cloud Functions)
-- Supabase
-- RESTful APIs
-- CI-friendly Git workflows
-
-#### 🧩 Architecture & Best Practices
-- Clean Architecture
-- MVVM / Feature-based architecture
-- State Management (Provider, Riverpod, Bloc concepts)
-- Responsive & adaptive UI
-- Performance optimization & memory awareness
-
-
-
-### 📌 Selected Projects
-See pinned repositories for implementation details.
-- #### 📱 Flutter Mobile Applications
-Authentication flows, dashboards, real-time data handling, modular UI systems.
-
-- #### ⚙️ SaaS Mobile Clients
-Subscription-based and productivity-focused applications with scalable architecture.
-
-- #### 🚀 Startup MVPs
-Rapid prototyping with production-grade foundations.
-
-Each project emphasizes **code quality,** **maintainability,** and **long-term scalability.**
-
-
-
-### 🧠 Engineering Mindset
-- 🧱 Architecture first, UI second
-- ⚡ Performance is a core requirement, not an enhancement
-- 🧹 Clean, readable, and scalable code
-- 🔍 Deep thinking beats quick hacks
-_“I Grant Thought Their First Breath”_ reflects a commitment to **intentional engineering.**
-
-
-
-### 📈 Opportunities
-Open to:
-- 📱 Mobile App Developer roles (Flutter / React Native)
-- ⚙️ SaaS-focused product teams
-- 🎓 Internship, Junior, or Mid-level positions
-- 🌍 Remote or hybrid teams
-- 🏢 High-impact startups and large technology companies
-
-
-
-### 🤝 Contact & Collaboration
-- 💻 GitHub: You’re already here
-- Email: contact.toetech@gmail.com
-- 📬 Open to roles, collaboration, and technical discussions <br>
-
-⭐ If you’re building scalable mobile products, I can help ship them.
+- **Portfolio:** [toe-tech.com](https://toe-tech.com)
+- **LinkedIn:** [linkedin.com/in/emmanuel-orimoloye](https://www.linkedin.com/in/emmanuel-orimoloye)
+- **X (Twitter):** [@ToeTech_](https://x.com/ToeTech_)
+- **Contact:** contact.toetech@gmail.com
