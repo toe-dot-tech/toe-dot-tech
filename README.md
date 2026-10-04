@@ -27,5 +27,5 @@ I design, engineer, and deploy production-ready cross-platform mobile apps, real
 
 - **Portfolio:** [toetech.me](https://toetech.me)
 - **LinkedIn:** [linkedin.com/in/emmanuel-orimoloye](https://www.linkedin.com/in/emmanuel-orimoloye)
-- **X (Twitter):** [@ToeTech_](https://x.com/ToeTech_)
+- **X (Twitter):** [@ToeTech_](https://x.com/ToeDotTech)
 - **Contact:** contact.toetech@gmail.com
